@@ -52,3 +52,5 @@ public class Match{
 
     }
 }
+
+https://www.baeldung.com/java-balanced-brackets-algorithm
